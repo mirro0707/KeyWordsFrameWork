@@ -1,0 +1,22 @@
+[[source]]
+
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+name = "pypi"
+
+
+[packages]
+
+nose = "*"
+selenium = "*"
+ddt = "*"
+pyyaml = "*"
+html-testrunner = "*"
+pytest-allure-adaptor = "*"
+pymysql = "*"
+openpyxl = "*"
+pillow = "*"
+
+
+[dev-packages]
+
